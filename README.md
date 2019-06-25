@@ -10,7 +10,7 @@ to find the correklation between price and trading volume
 ## Tools and Modules Used for this Project 
 
 * [python request module](https://pypi.org/project/requests/2.7.0/)
-* [matplotlib] (https://matplotlib.org/) 
+* [matplotlib](https://matplotlib.org/)
 
 ## Data Source 
 
